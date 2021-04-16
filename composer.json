@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.3",
-        "sylius/sylius": "^1.8",
+        "sylius/sylius": "^1.9",
         "lexik/jwt-authentication-bundle": "^2.5",
         "symfony/messenger": "^4.4|5.2",
         "doctrine/doctrine-bundle": "^2.0",
@@ -23,7 +23,7 @@
         "symfony/debug-bundle": "^4.4|5.2",
         "symfony/dotenv": "^4.4|5.2",
         "symfony/web-profiler-bundle": "^4.4|5.2",
-        "symfony/web-server-bundle": "^4.4",
+        "symfony/web-server-bundle": "^4.4|5.2",
         "mamazu/documentation-validator": "^1.0.1"
     },
     "autoload": {
